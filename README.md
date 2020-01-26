@@ -1,5 +1,7 @@
 # Middleman::HtmlBeautify
 
+[![Build Status](https://travis-ci.org/inotom/middleman-html-beautify.svg?branch=master)](https://travis-ci.org/inotom/middleman-html-beautify)
+
 `middleman-html-beautify` is an extension for the [Middleman](https://middlemanapp.com/) static site generator that beautify HTML via [HTML Beautifier](https://github.com/threedaymonk/htmlbeautifier).
 
 
